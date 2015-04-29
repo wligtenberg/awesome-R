@@ -31,6 +31,7 @@ A curated list of awesome R frameworks, packages and software. Inspired by [awes
 *Integrated Development Environment* 
 
 * [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+* [Architect](http://www.openanalytics.eu/downloads/architect) - Bundle of [Eclipse](https://eclipse.org/) and [StatET](http://www.walware.de/goto/statet) that does not require R to be separately installed (it comes with R embedded).
 * [JGR](http://rforge.net/JGR/) - JGR (speak 'Jaguar') is a Java Gui for R.
 * [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
 * [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE (integrated development environment) for R.
